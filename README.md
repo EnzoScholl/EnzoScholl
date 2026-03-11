@@ -66,15 +66,15 @@ For those who are curious, here are some of my GitHub statistics.
 
 ### ⭐ GitHub Stats
 
-<a href="https://github.com/aspiregram"><img height=200 src="https://github-readme-stats.vercel.app/api?username=aspiregram&bg_color=242437&title_color=5b62ff&text_color=b2c1ff&show_icons=true&icon_color=5b62ff&border_color=b2c1ff" /></a>
+<a href="https://github.com/EnzoScholl"><img height=200 src="https://github-readme-stats.vercel.app/api?username=aspiregram&bg_color=242437&title_color=5b62ff&text_color=b2c1ff&show_icons=true&icon_color=5b62ff&border_color=b2c1ff" /></a>
 
 ### 💬 Most Used Languages
 
-<a href="https://github.com/aspiregram"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspiregram&layout=compact&card_width=335&title_color=5b62ff&text_color=b2c1ff&show_icons=true&icon_color=5b62ff&border_color=b2c1ff&bg_color=242437" /></a>
+<a href="https://github.com/EnzoScholl"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspiregram&layout=compact&card_width=335&title_color=5b62ff&text_color=b2c1ff&show_icons=true&icon_color=5b62ff&border_color=b2c1ff&bg_color=242437" /></a>
 
 ### 💥 Contribution Graph
 
-<a href="https://github.com/aspiregram"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=aspiregram&bg_color=242437&color=5b62ff&line=b2c1ff&point=5b62ff&border_color=b2c1ff" /></a>
+<a href="https://github.com/EnzoScholl"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=aspiregram&bg_color=242437&color=5b62ff&line=b2c1ff&point=5b62ff&border_color=b2c1ff" /></a>
 
 </div>
 
@@ -83,4 +83,5 @@ For those who are curious, here are some of my GitHub statistics.
 If you wish to connect with me for something important, here's a way to do it.
 
 <a href="https://www.linkedin.com/in/enzo-scholl"><img src="https://img.shields.io/badge/LinkedIn-5b62ff?style=for-the-badge"></a>
+
 
