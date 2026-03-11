@@ -1,4 +1,4 @@
-# 💻 Enzo Scholl (Aspiregram)
+# 💻 Enzo Scholl
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=41&duration=4900&pause=500&color=B2C1FF&center=true&vCenter=true&random=true&width=800&height=66&lines=Front-end+developer;Computer+Science+student;Aspiring+full-stack+developer" alt="Typing" /></a></p>
 
@@ -83,3 +83,4 @@ For those who are curious, here are some of my GitHub statistics.
 If you wish to connect with me for something important, here's a way to do it.
 
 <a href="https://www.linkedin.com/in/enzo-scholl"><img src="https://img.shields.io/badge/LinkedIn-5b62ff?style=for-the-badge"></a>
+
